@@ -18,7 +18,66 @@ The draft order will be:
 11. United Brows of AD (Kenneth)
 12. King Gasol (Michael)
 
-Keeper are: TODO.
+Keepers are: 
+1. BestbrookAndFriends (Brian)
+- Lillard (2)
+- Derozan (3)
+- Booker (5)
+
+2. Andrew Lee’s Team (Andrew Lee)
+- Giannis (1)
+- Embiid (3)
+- Mitchell (7)
+
+3. #walkingtripledouble (Yannick)
+- Wall (1)
+- Gobert (2)
+- Simmons (4)
+
+4. Swish Chalet (Siddhesh)
+- James (1)
+- Irving (2)
+- Fultz (12)
+
+5. Return of the Klaw (Bix)
+- Kawhi (1)
+- George (2)
+- Porter (4)
+
+6. Big Ballers (Brendan)
+- Curry (1)
+- Gibson (7)
+- Mirotic (10)
+
+7. Athena’s Team (Athena)
+- Jordan (4)
+- Holiday (5)
+- Ingram (8)
+
+8. CJJJK from downTowns (Andy)
+- Towns (1)
+- Harris (5)
+- Aaron Gordon (7)
+
+9. Kenny’s Catering II (Clayton)
+- Harden (1)
+- Turner (2)
+- Love (3)
+
+10. Tilted By Milt (Clement)
+- Durant (1)
+- Covington (5)
+- Collins (7)
+
+11. United Brows of AD (Kenneth)
+- Davis (1)
+- Oladipo (5)
+- Richardson (12)
+
+12. King Gasol (Michael)
+- Jokic (1)
+- Porzingis (2)
+- Drummond (5)
 
 ## League Rules
 
