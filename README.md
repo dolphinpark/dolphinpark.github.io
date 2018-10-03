@@ -2,6 +2,24 @@
 
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
+## 2018 - 2019 Season
+
+The draft order will be:
+1. BestbrookAndFriends (Brian)
+2. Andrew Lee’s Team (Andrew Lee)
+3. #walkingtripledouble (Yannick)
+4. Swish Chalet (Siddhesh)
+5. Return of the Klaw (Bix)
+6. Big Ballers (Brendan)
+7. Athena’s Team (Athena)
+8. CJJJK from downTowns (Andy)
+9. Kenny’s Catering II (Clayton)
+10. Tilted By Milt (Clement)
+11. United Brows of AD (Kenneth)
+12. King Gasol (Michael)
+
+Keeper are: TODO.
+
 ## League Rules
 
 Note: These rules were taking from the original document seen here: [Document](https://docs.google.com/document/d/1mteDWxl_k1o5M1ewCmzkMov5cT64Nm-PAv40IKVRbII)
@@ -39,14 +57,3 @@ You can view this in the league settings page but for the lazy:
  - Playoff tiebreak: best regular season record vs opponent wins
  - No playoff reseeding (I’d like to change this. Anyone else?)
  - No divisions
- 
- ## 2018 - 2019 Season
- 
- The declared keepers are:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
- 
