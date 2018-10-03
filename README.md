@@ -1,4 +1,4 @@
-# Welcome to the Dolphin Park Invitational
+# Welcome to the Dolphin Park Invitational!
 
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
