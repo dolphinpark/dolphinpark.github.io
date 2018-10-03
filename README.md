@@ -19,6 +19,9 @@ As you all know, we have transitioned from a redraft league into a keeper league
 12. King Gasol (Michael)
 
 #### Keepers
+
+The values are in parenthesis, values are taken from [last year's draft](https://basketball.fantasysports.yahoo.com/archive/nba/2017/6678/draftresults).
+
 1. BestbrookAndFriends (Brian)
 - Lillard (2)
 - Derozan (3)
