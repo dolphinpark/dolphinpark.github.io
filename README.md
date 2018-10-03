@@ -39,3 +39,14 @@ You can view this in the league settings page but for the lazy:
  - Playoff tiebreak: best regular season record vs opponent wins
  - No playoff reseeding (I’d like to change this. Anyone else?)
  - No divisions
+ 
+ ## 2018 - 2019 Season
+ 
+ The declared keepers are:
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ 
