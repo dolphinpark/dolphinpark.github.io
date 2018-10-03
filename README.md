@@ -6,11 +6,11 @@ As you all know, we have transitioned from a redraft league into a keeper league
 
 Note: These rules were taking from the original document seen here: [Document](https://docs.google.com/document/d/1mteDWxl_k1o5M1ewCmzkMov5cT64Nm-PAv40IKVRbII)
 
-### Draft
+#### Draft
  - For our first season, we will be holding a standard snake draft with a random, Yahoo generated draft order. 
  - For all future seasons the draft order will be determined by reverse regular season standings order and **will not be snaking**. 
 
-### Keepers
+#### Keepers
 - Prior to the start of each future season, you will be allowed to select **3 players** from your roster at the end of the prior season as “keepers”. These players will remain on your roster as you go into the draft and the following season, instead of entering the player pool from which the draft will occur. 
 - Your most basic keeper leagues have no rules regarding who you can choose as your keepers. 
 - However, some leagues have rules regarding the following aspects. We are **not** implementing these.
@@ -24,7 +24,7 @@ Note: These rules were taking from the original document seen here: [Document](h
     - When trading, the draft round cost follows the player.
     - When you are trading draft picks, you must be trading an equal number of picks both ways for us to maintain draft and roster size integrity in future years. 
 
-### Other rules
+#### Other rules
 Beyond that most other rules should be consistent with what we have traditionally used. 
 You can view this in the league settings page but for the lazy:
  - 12 teams, 9 cat h2h
