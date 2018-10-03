@@ -71,8 +71,8 @@ The values are in parenthesis, values are taken from [last year's draft](https:/
 - Porzingis (2)
 - Drummond (5)
 
-#### "When do I Draft?"
-[Here](https://dolphinpark.github.io/2018keepers.html)
+#### "What picks do I actually have?"
+[Draft Matrix Here](https://dolphinpark.github.io/2018keepers.html)
 
 ## League Rules
 
