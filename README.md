@@ -2,7 +2,9 @@
 
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
-## Rules
+## League Rules
+
+Note: These rules were taking from the original document seen here: [Document](https://docs.google.com/document/d/1mteDWxl_k1o5M1ewCmzkMov5cT64Nm-PAv40IKVRbII)
 
 ### Draft
  - For our first season, we will be holding a standard snake draft with a random, Yahoo generated draft order. 
