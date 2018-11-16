@@ -81,6 +81,8 @@ Note: These rules were taking from the original document seen here: [Document](h
 #### Draft
  - For our first season, we will be holding a standard snake draft with a random, Yahoo generated draft order. 
  - For all future seasons the draft order will be determined by reverse regular season standings order and **will not be snaking**. 
+     - To prevent tanking, the positions 9-12 in the regular season standings will, in order, hold the first 4 picks, followed by reverse order for the positions 1-12.
+     - To clarify: the draft pick order, based on regular season standings, is: 9th, 10th, 11th, 12th, 8th, 7th, 6th, 5th, 4th, 3rd, 2nd, 1st.
 
 #### Keepers
 - Prior to the start of each future season, you will be allowed to select **3 players** from your roster at the end of the prior season as “keepers”. These players will remain on your roster as you go into the draft and the following season, instead of entering the player pool from which the draft will occur. 
