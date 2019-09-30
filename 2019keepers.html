@@ -1,0 +1,273 @@
+<title>Keeper Draft Matrix 2019</title>
+<script>
+  // Auto populate table based on leagueKeepers and headers variables
+  // Modify leagueKeepers variable to reflect each team's keepers
+
+  const leagueKeepers = [
+    // First Pick
+    {
+      teamName: 'Athena’s Team',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 8
+        }, {
+          player: 'Player2',
+          round: 9
+        }, {
+          player: 'Player3',
+          round: 10
+        },
+      ] 
+    },
+    // Second Pick
+    {
+      teamName: 'Cursed by a Rose',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 2
+        }, {
+          player: 'Player3',
+          round: 3
+        },
+      ] 
+    },
+    // Third Pick
+    {
+      teamName: '#walkingtripledouble',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 3
+        }, {
+          player: 'Player2',
+          round: 4
+        }, {
+          player: 'Player3',
+          round: 5
+        },
+      ] 
+    },
+    // Fourth Pick
+    {
+      teamName: 'Jokes on Me',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 2
+        }, {
+          player: 'Player3',
+          round: 4
+        },
+      ] 
+    },
+    // Fifth Pick
+    {
+      teamName: "Andrew Lee's Team",
+      keepers: [
+        {
+          player: 'Player1',
+          round: 6
+        }, {
+          player: 'Player2',
+          round: 9
+        }, {
+          player: 'Player3',
+          round: 13
+        },
+      ] 
+    },
+    // Sixth Pick 
+    {
+      teamName: 'Return of the Klaw',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 2
+        }, {
+          player: 'Player3',
+          round: 5
+        },
+      ] 
+    },
+    // Seventh Pick 
+    {
+      teamName: 'Swish Chalet',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 4
+        }, {
+          player: 'Player3',
+          round: 5
+        },
+      ] 
+    },
+    // Eighth Pick 
+    {
+      teamName: "Kenny's Catering II",
+      keepers: [
+        {
+          player: 'Harden',
+          round: 1
+        }, {
+          player: "D'angelo Russell",
+          round: 5
+        }, {
+          player: 'Siakam',
+          round: 6
+        },
+      ] 
+    },
+    // Ninth Pick
+    {
+      teamName: 'Team Slytherin',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 7
+        }, {
+          player: 'Player2',
+          round: 10
+        }, {
+          player: 'Player3',
+          round: 11
+        },
+      ] 
+    },
+    // Tenth Pick
+    {
+      teamName: 'Sunday Heroes',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 2
+        }, {
+          player: 'Player3',
+          round: 3
+        },
+      ] 
+    },
+    // Eleventh Pick 
+    {
+      teamName: 'Haywatch',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 3
+        }, {
+          player: 'Player3',
+          round: 4
+        },
+      ] 
+    },
+    // Last Pick 
+    {
+      teamName: 'United Brows of AD',
+      keepers: [
+        {
+          player: 'Player1',
+          round: 1
+        }, {
+          player: 'Player2',
+          round: 3
+        }, {
+          player: 'Player3',
+          round: 10
+        },
+      ] 
+    },
+  ];
+
+  const headers = [
+    'Draft Round',
+    '1',
+    '2',
+    '3',
+    '4',
+    '5',
+    '6',
+    '7',
+    '8',
+    '9',
+    '10',
+    '11',
+    '12',
+    '13',
+    '14',
+    '15',
+    'Players Kept'
+  ];
+
+  function createTable() {
+    var body = document.getElementsByTagName('body')[0];
+    const table = document.createElement('table');
+    table.style.width = '100%';
+    table.setAttribute('border', '1');
+    
+    table.appendChild(generateTableHeaders())
+    table.appendChild(generateBody());
+
+    body.appendChild(table);
+  }
+
+  function generateTableHeaders() {
+    const tableHeaders = document.createElement('thead');
+
+    headers.map(header => tableHeaders.appendChild(document.createElement('th')).appendChild(document.createTextNode(header)));
+    return tableHeaders;
+  }
+
+  function generateBody() {
+    const tableBody = document.createElement('tbody');
+    leagueKeepers.map(({ teamName, keepers }) => {
+      const tr = document.createElement('tr');
+      let text = '';
+      // 17 columns (team name, 1-15, players)
+      for (let j = 0; j < headers.length; j++) {
+        const td = document.createElement('td');
+        let text = '';
+        
+        if (j === 0) {
+          text = teamName;
+        } else if (j === headers.length - 1) {
+          text = keepers.map(({player, round}) => `${player} (${round})`).join(', ')
+        } else if (keepers.map(({round}) => round + 1).indexOf(j) > -1) {
+          text = 'X'
+        } else {
+          text = ' ' 
+        }
+
+        td.appendChild(document.createTextNode(text));
+        tr.appendChild(td);
+      }
+      tableBody.appendChild(tr);
+    });
+
+    return tableBody;
+  }
+
+</script>
+<html>
+  <body onLoad="createTable()">
+  </body>
+</html>
