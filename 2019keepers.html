@@ -125,10 +125,10 @@
           round: 1
         }, {
           player: "D'angelo Russell",
-          round: 5
+          round: 6
         }, {
           player: 'Siakam',
-          round: 6
+          round: 7
         },
       ] 
     },
@@ -251,7 +251,7 @@
           text = teamName;
         } else if (j === headers.length - 1) {
           text = keepers.map(({player, round}) => `${player} (${round})`).join(', ')
-        } else if (keepers.map(({round}) => round + 1).indexOf(j) > -1) {
+        } else if (keepers.map(({round}) => round).indexOf(j) > -1) {
           text = 'X'
         } else {
           text = ' ' 

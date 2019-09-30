@@ -23,53 +23,53 @@ As you all know, we have transitioned from a redraft league into a keeper league
 The values are in parenthesis, values are taken from [last year's draft](https://basketball.fantasysports.yahoo.com/archive/nba/2018/9499/draftresults).
 
 1. Athena’s Team (Athena)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 2. Cursed by a Rose (Brian)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 3. #walkingtripledouble (Yannick)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 4. Jokes on Me (Michael)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 5. Andrew Lee’s Team (Andrew Lee)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 6. Return of the Klaw (Bix)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 7. Swish Chalet (Siddhesh)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 8. Kenny’s Catering II (Clayton)
-- 
-- 
-- 
+- James Harden (1)
+- D'angelo Russell (6)
+- Pascal Siakam (7)
 9. Team Slytherin (Clement)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 10. Sunday Heroes (Andy Seo)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 11. Haywatch (Brendan)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 12. United Brows of AD (Kenneth)
-- 
-- 
-- 
+- Player1
+- Player2
+- Player3
 
 #### "What picks do I actually have?"
 [Draft Matrix Here](https://dolphinpark.github.io/2019keepers.html)
