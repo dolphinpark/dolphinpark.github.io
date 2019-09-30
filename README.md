@@ -2,6 +2,79 @@
 
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
+## 2019 - 2020 Season
+
+#### Draft Order
+1. Athena’s Team (Athena)
+2. Cursed by a Rose (Brian)
+3. #walkingtripledouble (Yannick)
+4. Jokes on Me (Michael)
+5. Andrew Lee’s Team (Andrew Lee)
+6. Return of the Klaw (Bix)
+7. Swish Chalet (Siddhesh)
+8. Kenny’s Catering II (Clayton)
+9. Team Slytherin (Clement)
+10. Sunday Heroes (Andy Seo)
+11. Haywatch (Brendan)
+12. United Brows of AD (Kenneth)
+
+#### Keepers
+
+The values are in parenthesis, values are taken from [last year's draft](https://basketball.fantasysports.yahoo.com/archive/nba/2018/9499/draftresults).
+
+1. Athena’s Team (Athena)
+- 
+- 
+- 
+2. Cursed by a Rose (Brian)
+- 
+- 
+- 
+3. #walkingtripledouble (Yannick)
+- 
+- 
+- 
+4. Jokes on Me (Michael)
+- 
+- 
+- 
+5. Andrew Lee’s Team (Andrew Lee)
+- 
+- 
+- 
+6. Return of the Klaw (Bix)
+- 
+- 
+- 
+7. Swish Chalet (Siddhesh)
+- 
+- 
+- 
+8. Kenny’s Catering II (Clayton)
+- 
+- 
+- 
+9. Team Slytherin (Clement)
+- 
+- 
+- 
+10. Sunday Heroes (Andy Seo)
+- 
+- 
+- 
+11. Haywatch (Brendan)
+- 
+- 
+- 
+12. United Brows of AD (Kenneth)
+- 
+- 
+- 
+
+#### "What picks do I actually have?"
+[Draft Matrix Here](https://dolphinpark.github.io/2019keepers.html)
+
+
 ## 2018 - 2019 Season
 
 #### Draft Order
@@ -73,6 +146,7 @@ The values are in parenthesis, values are taken from [last year's draft](https:/
 
 #### "What picks do I actually have?"
 [Draft Matrix Here](https://dolphinpark.github.io/2018keepers.html)
+
 
 ## League Rules
 
