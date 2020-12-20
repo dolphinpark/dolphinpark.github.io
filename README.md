@@ -23,53 +23,53 @@ As you all know, we have transitioned from a redraft league into a keeper league
 The values are in parenthesis, values are taken from [last year's draft](https://basketball.fantasysports.yahoo.com/archive/nba/2018/9499/draftresults).
 
 1. Athena’s Team (Athena)
-- Player1
-- Player2
-- Player3
+- Jrue Holiday (3)
+- Brandom Ingram (4)
+- Zach Lavine (7)
 2. Cursed by a Rose (Brian)
-- Player1
-- Player2
-- Player3
+- Damian Lillard (1)
+- Devin Booker (3)
+- Jonas Valanciunas (6)
 3. #walkingtripledouble (Yannick)
-- Player1
-- Player2
-- Player3
+- Ben Simmons (2)
+- Jaren Jackson Jr (8)
+- Trae Young (10)
 4. Jokes on Me (Michael)
-- Player1
-- Player2
-- Player3
-5. Andrew Lee’s Team (Andrew Lee)
-- Player1
-- Player2
-- Player3
-6. Return of the Klaw (Bix)
-- Player1
-- Player2
-- Player3
+- Nikola Jokic (1)
+- Kristaps Porzingis (2)
+- Deandre Ayton (3)
+5. Everyday is Gyro Day (Andrew Lee)
+- Giannia Antetokounmpo (1)
+- Joel Embiid (2)
+- De'Aaron Fox (11)
+6. L O A D M A N A G E (Bix)
+- Kawhi Leonard (1)
+- Paul George (2)
+- Bogdan Bogdanovic (10)
 7. Swish Chalet (Siddhesh)
-- Player1
-- Player2
-- Player3
+- LeBron James (1)
+- Kyrie Irving (2)
+- Luka Doncic (7)
 8. Kenny’s Catering II (Clayton)
 - James Harden (1)
 - D'angelo Russell (6)
 - Pascal Siakam (7)
-9. Team Slytherin (Clement)
-- Player1
-- Player2
-- Player3
-10. Sunday Heroes (Andy Seo)
-- Player1
-- Player2
-- Player3
-11. Haywatch (Brendan)
-- Player1
-- Player2
-- Player3
+9. Rob the Reborn (Clement)
+- Robert Covington (3)
+- Dejounte Murray (10)
+- Mitchell Robinson (10)
+10. kitKAT Buckets (Andy Seo)
+- Karl-Anthony Towns (1)
+- Jimmy Butler (2)
+- Malcolm Brogdon (10)
+11. Herro Ball (Brendan)
+- Stephen Curry (1)
+- Bradley Beal (2)
+- Otto Porter Jr. (10)
 12. United Brows of AD (Kenneth)
-- Player1
-- Player2
-- Player3
+- Anthony Davis (1)
+- Nikola Vucevic (4)
+- Buddy Hield (10)
 
 #### "What picks do I actually have?"
 [Draft Matrix Here](https://dolphinpark.github.io/2019keepers.html)
