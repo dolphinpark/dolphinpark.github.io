@@ -2,6 +2,26 @@
 
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
+## 2020 - 2021 Season
+
+#### Draft Order
+1. 八村塁 (Brian)
+2. Everyday is gyro day (Andrew Lee)
+3. Chicago Bullshit (Athena)
+4. Jokes on Me (Michael)
+5. Rob the Reborn (Clement)
+6. Herro Ball (Brendan)
+7. kitKAT Buckets (Andy Seo)
+8. L O A D M A N A G E (Bix)
+9. #walkingtripledouble (Yannick)
+10. Swish Chalet (Siddhesh)
+11. Hadenin Zion's Knee (Clayton)
+12. United Brows of AD (Kenneth)
+
+#### Keepers
+
+To be announced.
+
 ## 2019 - 2020 Season
 
 #### Draft Order
@@ -70,10 +90,6 @@ The values are in parenthesis, values are taken from [last year's draft](https:/
 - Anthony Davis (1)
 - Nikola Vucevic (4)
 - Buddy Hield (10)
-
-#### "What picks do I actually have?"
-[Draft Matrix Here](https://dolphinpark.github.io/2019keepers.html)
-
 
 ## 2018 - 2019 Season
 
@@ -166,7 +182,7 @@ Note: These rules were taking from the original document seen here: [Document](h
     - Length: As mention in the previous point, some leagues have a limit on the number of years you can keep a player before you are forced to release them into the draft pool. 
 - However, due to demand, we **are** implementing keeper rules regarding:
     - Draft round: Your keepers eat up the future draft pick that they were previously drafted in. If next summer you decide to keep your third, sixth and tenth round picks from this 2017-2018 season, for the 2018-2019 draft, you would give up your third, sixth and tenth round picks. 
-        - Players who were waiver pickups would cost you your **seventh** round pick.
+        - Players who were waiver pickups would cost you your **tenth** round pick.
         - If you kept your second round pick through the year and traded for someone else's second round pick during the season, the cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
         - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up. For example, a previously kept 7th rounder would cost a 4th rounder to cost in the following year.
     - When trading, the draft round cost follows the player.
