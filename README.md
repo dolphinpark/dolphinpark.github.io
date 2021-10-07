@@ -21,9 +21,9 @@
 To Be Announced Oct 9th, 2021.
 Values will be taken from [the 2020 draft](https://basketball.fantasysports.yahoo.com/2020/nba/64005/draftresults).
 
-As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
-
 ## League Rules
+
+As of 2018, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss.
 
 Note: These rules were taking from the original document seen here: [Document](https://docs.google.com/document/d/1mteDWxl_k1o5M1ewCmzkMov5cT64Nm-PAv40IKVRbII)
 
@@ -41,8 +41,8 @@ Note: These rules were taking from the original document seen here: [Document](h
     - Length: As mention in the previous point, some leagues have a limit on the number of years you can keep a player before you are forced to release them into the draft pool. 
 - However, due to demand, we **are** implementing keeper rules regarding:
     - Draft round: Your keepers eat up the future draft pick that they were previously drafted in. If next summer you decide to keep your third, sixth and tenth round picks from this 2017-2018 season, for the 2018-2019 draft, you would give up your third, sixth and tenth round picks. 
-        - Players who were waiver pickups would cost you your **tenth** round pick.
-        - If you kept your second round pick through the year and traded for someone else's second round pick during the season, the cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
+        - Players who were waiver pickups would cost you your **10th** round pick. This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.
+        - If you kept your 2nd round pick through the year and traded for someone else's 2nd round pick during the season, the keeper cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
         - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up. For example, a previously kept 7th rounder would cost a 4th rounder to cost in the following year.
     - When trading, the draft round cost follows the player.
     - When you are trading draft picks, you must be trading an equal number of picks both ways for us to maintain draft and roster size integrity in future years. 
@@ -58,7 +58,7 @@ You can view this in the league settings page but for the lazy:
  - League votes on trade review 
  - 4 pickups per week
  - Pickups: Daily - Tomorrow
- - Playoffs: exclude the final super long week 23
+ - Playoffs: exclude the final super long final week of the season
  - Playoff tiebreak: best regular season record vs opponent wins
  - No playoff reseeding (I’d like to change this. Anyone else?)
  - No divisions
