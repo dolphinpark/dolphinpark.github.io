@@ -1,5 +1,26 @@
 # Welcome to the Dolphin Park Invitational!
 
+## 2021 - 2022 Season
+
+#### Draft Order
+1. Los Ang31es Chokers (Bix)
+2. WET LIKE BOOK (Brian)
+3. Flat Earth Energy (Siddhesh)
+4. kitKAT Buckets (Steven)
+5. Chicago Bullshit (D)
+6. Scarf Gang (Nick)
+7. 2TAY MELO (Kenneth)
+8. Jokes on You (Michael)
+9. #walkingtripledouble (Yannick)
+10. Wood is not Hardenin (Clayton)
+11. Beal or no Beal (Brendan)
+12. The Serpent Returns (Clement)
+
+#### Keepers
+
+To Be Announced Oct 9th, 2021.
+Values will be taken from [the 2020 draft](https://basketball.fantasysports.yahoo.com/2020/nba/64005/draftresults).
+
 As you all know, we have transitioned from a redraft league into a keeper league. This means some changes to what we’ve done in the past. All of these are debatable, if you have any concerns or suggestions feel free to bring them up and we can discuss:
 
 ## League Rules
@@ -43,27 +64,6 @@ You can view this in the league settings page but for the lazy:
  - No divisions
 
 ## Archive of Past Seasons
-
-### 2021 - 2022 Season
-
-#### Draft Order
-1. Los Ang31es Chokers (Bix)
-2. WET LIKE BOOK (Brian)
-3. Flat Earth Energy (Siddhesh)
-4. kitKAT Buckets (Steven)
-5. Chicago Bullshit (D)
-6. Scarf Gang (Nick)
-7. 2TAY MELO (Kenneth)
-8. Jokes on You (Michael)
-9. #walkingtripledouble (Yannick)
-10. Wood is not Hardenin (Clayton)
-11. Beal or no Beal (Brendan)
-12. The Serpent Returns (Clement)
-
-#### Keepers
-
-To Be Announced Oct 9th, 2021.
-Values will be taken from [the 2020 draft](https://basketball.fantasysports.yahoo.com/2020/nba/64005/draftresults).
 
 ### 2020 - 2021 Season
 
