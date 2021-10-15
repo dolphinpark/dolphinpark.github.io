@@ -22,9 +22,9 @@ To Be Announced Oct 9th, 2021.
 Values will be taken from [the 2020 draft](https://basketball.fantasysports.yahoo.com/2020/nba/64005/draftresults).
 
 1. Los Ang31es Chokers (Bix)
-- Keldon Johnson (11)
-- Terry Rozier (12)
-- Klay Thompson (13)
+- Keldon Johnson (10)
+- Terry Rozier (11)
+- Klay Thompson (12)
 2. WET LIKE BOOK (Brian)
 - Damian Lillard (1)
 - Devin Booker (1)
