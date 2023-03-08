@@ -1,4 +1,8 @@
+# Welcome to the Dolphin Park Invitational!
+
 ### 2020 - 2021 Season
+
+[Back to home](README.md)
 
 #### Draft Order
 1. 八村塁 (Brian)

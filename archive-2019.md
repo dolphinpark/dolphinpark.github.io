@@ -1,5 +1,8 @@
+# Welcome to the Dolphin Park Invitational!
 
 ### 2019 - 2020 Season
+
+[Back to home](README.md)
 
 #### Draft Order
 1. Athena’s Team (Athena)

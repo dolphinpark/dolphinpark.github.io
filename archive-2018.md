@@ -1,5 +1,8 @@
+# Welcome to the Dolphin Park Invitational!
 
 ### 2018 - 2019 Season
+
+[Back to home](README.md)
 
 #### Draft Order
 1. BestbrookAndFriends (Brian)
