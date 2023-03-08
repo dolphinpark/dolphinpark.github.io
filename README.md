@@ -2,73 +2,24 @@
 
 ## 2022 - 2023 Season
 
-### Draft Order
+### Draft Order and Keepers
 
-1.	MAKING WHAT YOU'RE CRAVING (Kenneth)
-2.	Chicago Bullshit (D)
-3.	Better Call Paul (Siddhesh)
-4.	WHERE DID THE DAME TIME GO? (Brian)
-5. P R O C E S S (Nick)
-6.	OnlyFranz (Clayton)
-7.	Saddiq in a Box (Brendan)
-8.	Everybody Loves Draymond (Steven)
-9.	B R I C K 4 V I C (Bix)
-10.	Return of the Serpant (Clement)
-11.	#walkingtripledouble (Yannick)
-12.	Jokes on You (Michael)
+Keeper values based on the [2021 draft](https://basketball.fantasysports.yahoo.com/2021/nba/12101/draftresults?drafttab=team).
 
-### Keepers
-
-Values based on the [2021 draft](https://basketball.fantasysports.yahoo.com/2021/nba/12101/draftresults?drafttab=team).
-
-1.	MAKING WHAT YOU'RE CRAVING (Kenneth)
-- Fred VanVleet (2)
-- LaMelo Ball (5)
-- Kawhi Leonard (11)
-2.	Chicago Bullshit (D)
-- Cade Cunningham (5) 
-- Tyrese Haliburton (6)
-- Kyle Kuzma (9)
-3.	Better Call Paul (Siddhesh)
-- Luka Doncic (1)
-- Zion Williamson (5)
-- Jamal Murray (13)
-4.	WHERE DID THE DAME TIME GO? (Brian)
-- Damian Lillard (1)
-- Ja Morant (4)
-- Jarrett Allen (6)
-5. P R O C E S S (Nick)
--	Giannis Antetokounmpo (1) 
-- Joel Embiid (2)
-- Desmond Bane (10)
-6.	OnlyFranz (Clayton)
-- Steph Curry (1) 
-- Darius Garland (7)
-- Scottie Barnes (9)
-7.	Saddiq in a Box (Brendan)
-- James Harden (1)
-- Kyrie Irving (8)
-- Tyrese Maxey (10)
-8.	Everybody Loves Draymond (Steven)
-- Bones Hyland (10)
-- Devin Vassell (10)
-- Gary Trent Jr (13)
-9.	B R I C K 4 V I C (Bix)
-- DeMar DeRozan (5) 
-- Terry Rozier (6)
-- Wendell Carter Jr (8)
-10.	Return of the Serpant (Clement)
-- Kevin Durant (2)
-- Dejounte Murray (3)
-- Jalen Brunson (10)
-11.	#walkingtripledouble (Yannick)
-- Pascal Siakam (3)
-- Anthony Edwards (5)
-- Josh Giddey (9)
-12.	Jokes on You (Michael)
-- Nikola Jokic (1)
-- Jrue Holiday (5)
-- Herbert Jones (10)
+| **Team** | **Keepers** |
+| -------- | ----------- |
+| MAKING WHAT YOU'RE CRAVING (Kenneth) | Fred VanVleet (2)<br>LaMelo Ball (5)<br>Kawhi Leonard (11) |
+| Chicago Bullshit (D) | Cade Cunningham (5)<br>Tyrese Haliburton (6)<br>Kyle Kuzma (9) |
+| Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Zion Williamson (5)<br>Jamal Murray (13) |
+| WHERE DID THE DAME TIME GO? (Brian) | Damian Lillard (1)<br>Ja Morant (4)<br>Jarrett Allen (6) |
+| P R O C E S S (Nick) | Giannis Antetokounmpo (1)<br>Joel Embiid (2)<br>Desmond Bane (10) |
+| OnlyFranz (Clayton) | Steph Curry (1) <br>Darius Garland (7)<br>Scottie Barnes (9) |
+| Saddiq in a Box (Brendan) | James Harden (1)<br>Kyrie Irving (8)<br>Tyrese Maxey (10) |
+| Everybody Loves Draymond (Steven) | Bones Hyland (10)<br>Devin Vassell (10)<br>Gary Trent Jr (13) |
+| B R I C K 4 V I C (Bix) | DeMar DeRozan (5) <br>Terry Rozier (6)<br>Wendell Carter Jr (8) |
+| The Serpent Returns (Clement) | Kevin Durant (2)<br>Dejounte Murray (3)<br>Jalen Brunson (10) |
+| #walkingtripledouble | Pascal Siakam (3)<br>Anthony Edwards (5)<br>Josh Giddey (9) |
+| Jokes on You | Nikola Jokic (1)<br>Jrue Holiday (5)<br>Herbert Jones (10) |
 
 ## League Rules
 
