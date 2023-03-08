@@ -2,7 +2,73 @@
 
 ## 2022 - 2023 Season
 
-To be added
+### Draft Order
+
+1.	MAKING WHAT YOU'RE CRAVING (Kenneth)
+2.	Chicago Bullshit (D)
+3.	Better Call Paul (Siddhesh)
+4.	WHERE DID THE DAME TIME GO? (Brian)
+5. P R O C E S S (Nick)
+6.	OnlyFranz (Clayton)
+7.	Saddiq in a Box (Brendan)
+8.	Everybody Loves Draymond (Steven)
+9.	B R I C K 4 V I C (Bix)
+10.	Return of the Serpant (Clement)
+11.	#walkingtripledouble (Yannick)
+12.	Jokes on You (Michael)
+
+### Keepers
+
+Values based on the [2021 draft](https://basketball.fantasysports.yahoo.com/2021/nba/12101/draftresults?drafttab=team).
+
+1.	MAKING WHAT YOU'RE CRAVING (Kenneth)
+- Fred VanVleet (2)
+- LaMelo Ball (5)
+- Kawhi Leonard (11)
+2.	Chicago Bullshit (D)
+- Cade Cunningham (5) 
+- Tyrese Haliburton (6)
+- Kyle Kuzma (9)
+3.	Better Call Paul (Siddhesh)
+- Luka Doncic (1)
+- Zion Williamson (5)
+- Jamal Murray (13)
+4.	WHERE DID THE DAME TIME GO? (Brian)
+- Damian Lillard (1)
+- Ja Morant (4)
+- Jarrett Allen (6)
+5. P R O C E S S (Nick)
+-	Giannis Antetokounmpo (1) 
+- Joel Embiid (2)
+- Desmond Bane (10)
+6.	OnlyFranz (Clayton)
+- Steph Curry (1) 
+- Darius Garland (7)
+- Scottie Barnes (9)
+7.	Saddiq in a Box (Brendan)
+- James Harden (1)
+- Kyrie Irving (8)
+- Tyrese Maxey (10)
+8.	Everybody Loves Draymond (Steven)
+- Bones Hyland (10)
+- Devin Vassell (10)
+- Gary Trent Jr (13)
+9.	B R I C K 4 V I C (Bix)
+- DeMar DeRozan (5) 
+- Terry Rozier (6)
+- Wendell Carter Jr (8)
+10.	Return of the Serpant (Clement)
+- Kevin Durant (2)
+- Dejounte Murray (3)
+- Jalen Brunson (10)
+11.	#walkingtripledouble (Yannick)
+- Pascal Siakam (3)
+- Anthony Edwards (5)
+- Josh Giddey (9)
+12.	Jokes on You (Michael)
+- Nikola Jokic (1)
+- Jrue Holiday (5)
+- Herbert Jones (10)
 
 ## League Rules
 
@@ -24,10 +90,10 @@ Note: These rules were taking from the original document seen here: [Document](h
     - Length: As mention in the previous point, some leagues have a limit on the number of years you can keep a player before you are forced to release them into the draft pool. 
 - However, due to demand, we **are** implementing keeper rules regarding:
     - Draft round: Your keepers eat up the future draft pick that they were previously drafted in. If next summer you decide to keep your third, sixth and tenth round picks from this 2017-2018 season, for the 2018-2019 draft, you would give up your third, sixth and tenth round picks. 
-        - Players who were waiver pickups would cost you your **10th** round pick. This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.
+        - Players who were waiver pickups would cost you your **10th** round pick. ~~This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.~~ As of 2022, any player that is drafted maintains their original draft value, regardless of any in-season transactions.
         - If you kept your 2nd round pick through the year and traded for someone else's 2nd round pick during the season, the keeper cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
         - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up. For example, a previously kept 7th rounder would cost a 4th rounder to cost in the following year.
-    - When trading, the draft round cost follows the player.
+    - When trading, adding waivers, or adding free agents, the draft round cost follows the player.
     - When you are trading draft picks, you must be trading an equal number of picks both ways for us to maintain draft and roster size integrity in future years. 
 
 #### Other rules
@@ -47,7 +113,6 @@ You can view this in the league settings page but for the lazy:
  - No divisions
 
 ## Archive of Past Seasons
-
 
 ### 2021 - 2022 Season
 
