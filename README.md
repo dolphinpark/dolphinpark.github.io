@@ -10,14 +10,14 @@ Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022
 | -------- | ----------- |
 | 1. WEMBANYAMBA (Clayton) |  |
 | 2. #walkingtripledouble (Yannick) |  |
-| 3. WHERE DID THE DAME TIME GO? (Nicolas) |  |
+| 3. WHERE DID THE DAME TIME GO? (Nicholas) |  |
 | 4. Everybody Loves Draymond (Steven) |  |
 | 5. MAKING WHAT YOU'RE CRAVING (Kenneth) |  |
 | 6. P R O C E S S (Nick) |  |
 | 7. Chicago BullSh*t (D) |  |
 | 8. Old Joints and Weak Knees (Clement) |  |
 | 9. Saddiq in a Box (Brendan) |  |
-| 10. Jokes on You |  |
+| 10. Jokes on You (Michael) |  |
 | 11. BRICK 4 VIC (Bix) |  |
 | 12. Better Call Paul (Siddhesh) |  |
 
