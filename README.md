@@ -1,5 +1,26 @@
 # Welcome to the Dolphin Park Invitational!
 
+## 2023 - 2024 Season
+
+### Draft Order and Keepers
+
+Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022/nba/40387/draftresults?drafttab=team).
+
+| **Team** | **Keepers** |
+| -------- | ----------- |
+| 1. WEMBANYAMBA (Clayton) |  |
+| 2. #walkingtripledouble (Yannick) |  |
+| 3. WHERE DID THE DAME TIME GO? (Nicolas) |  |
+| 4. Everybody Loves Draymond (Steven) |  |
+| 5. MAKING WHAT YOU'RE CRAVING (Kenneth) |  |
+| 6. P R O C E S S (Nick) |  |
+| 7. Chicago BullSh*t (D) |  |
+| 8. Old Joints and Weak Knees (Clement) |  |
+| 9. Saddiq in a Box (Brendan) |  |
+| 10. Jokes on You |  |
+| 11. BRICK 4 VIC (Bix) |  |
+| 12. Better Call Paul (Siddhesh) |  |
+
 ## 2022 - 2023 Season
 
 ### Draft Order and Keepers
