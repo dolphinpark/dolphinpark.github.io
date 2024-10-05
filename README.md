@@ -1,8 +1,8 @@
 # Welcome to the Dolphin Park Invitational!
 
-## 2024 - 2025 Season
+## Draft Order and Keepers
 
-### Draft Order and Keepers
+### 2024 - 2025 Season
 
 Values based on the [2023 draft](https://basketball.fantasysports.yahoo.com/2023/nba/105652/draftresults?drafttab=team).
 
@@ -21,9 +21,7 @@ Values based on the [2023 draft](https://basketball.fantasysports.yahoo.com/2023
 | 11. Better Call Paul (Yannick) |  |
 | 12. SenGoons (Brendan) |  |
 
-## 2023 - 2024 Season
-
-### Draft Order and Keepers
+### 2023 - 2024 Season
 
 Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022/nba/40387/draftresults?drafttab=team).
 
@@ -42,9 +40,7 @@ Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022
 | 11. BRICK 4 VIC (Bix) | Myles Turner (2) <br>Jaren Jackson Jr (4)<br>Brook Lopez (9) |
 | 12. Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Shai Gilgeous-Alexander (3)<br>Chet Holmgren (10) |
 
-## 2022 - 2023 Season
-
-### Draft Order and Keepers
+### 2022 - 2023 Season
 
 Keeper values based on the [2021 draft](https://basketball.fantasysports.yahoo.com/2021/nba/12101/draftresults?drafttab=team).
 
@@ -83,7 +79,7 @@ Note: These rules were taking from the original document seen here: [Document](h
     - Length: As mention in the previous point, some leagues have a limit on the number of years you can keep a player before you are forced to release them into the draft pool. 
 - However, due to demand, we **are** implementing keeper rules regarding:
     - Draft round: Your keepers eat up the future draft pick that they were previously drafted in. If next summer you decide to keep your third, sixth and tenth round picks from this 2017-2018 season, for the 2018-2019 draft, you would give up your third, sixth and tenth round picks. 
-        - Players who were waiver pickups would cost you your **10th** round pick. ~~This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.~~ As of 2022, any player that is drafted maintains their original draft value, regardless of any in-season transactions.
+        - If a player was not originally drafted by any team, and you acquired them last season from waivers, they cost you your **10th** round pick. ~~This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.~~ As of 2022, any player that is drafted maintains their original draft value, regardless of any in-season transactions.
         - If you kept your 2nd round pick through the year and traded for someone else's 2nd round pick during the season, the keeper cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
         - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up. For example, a previously kept 7th rounder would cost a 4th rounder to cost in the following year.
     - When trading, adding waivers, or adding free agents, the draft round cost follows the player.
