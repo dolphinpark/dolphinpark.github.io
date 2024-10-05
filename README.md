@@ -1,5 +1,26 @@
 # Welcome to the Dolphin Park Invitational!
 
+## 2024 - 2025 Season
+
+### Draft Order and Keepers
+
+Values based on the [2023 draft](https://basketball.fantasysports.yahoo.com/2023/nba/105652/draftresults?drafttab=team).
+
+| **Team** | **Keepers** |
+| -------- | ----------- |
+| 1. BRICK 4 VIC (Bix) |  |
+| 2. BANE of my Existence (Nick) |  |
+| 3. Giddey up your Jokes (Michael) |  |
+| 4. WHERE DID THE DAME TIME GO? (Nicholas) |  |
+| 5. Big Memphis (Clement) |  |
+| 6. 2TAY MELO (Kenneth) |  |
+| 7. Chicago Bullsh*t (D) |  |
+| 8. #walkingtripledouble (Yannick) |  |
+| 9. CoCo Curry (Clayton) |  |
+| 10. Everybody Loves Draymond (Steven) |  |
+| 11. Better Call Paul (Yannick) |  |
+| 12. SenGoons (Brendan) |  |
+
 ## 2023 - 2024 Season
 
 ### Draft Order and Keepers
@@ -8,18 +29,18 @@ Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022
 
 | **Team** | **Keepers** |
 | -------- | ----------- |
-| 1. WEMBANYAMBA (Clayton) |  |
-| 2. #walkingtripledouble (Yannick) |  |
-| 3. WHERE DID THE DAME TIME GO? (Nicholas) |  |
-| 4. Everybody Loves Draymond (Steven) |  |
-| 5. MAKING WHAT YOU'RE CRAVING (Kenneth) |  |
-| 6. P R O C E S S (Nick) |  |
-| 7. Chicago BullSh*t (D) |  |
-| 8. Old Joints and Weak Knees (Clement) |  |
-| 9. Saddiq in a Box (Brendan) |  |
-| 10. Jokes on You (Michael) |  |
-| 11. BRICK 4 VIC (Bix) |  |
-| 12. Better Call Paul (Siddhesh) |  |
+| 1. WEMBANYAMBA (Clayton) | Steph Curry (1)<br>Jakob Poeltl (4)<br>Nic Claxton (10) |
+| 2. #walkingtripledouble (Yannick) | Domantas Sabonis (1)<br>Anthony Edwards (2)<br>Zion Williamson (5) |
+| 3. WHERE DID THE DAME TIME GO? (Nicholas) | Damian Lillard (1)<br>Andrew Wiggins (8)<br>Jaden McDaniels (12) |
+| 4. Everybody Loves Draymond (Steven) | Donovan Mitchell (2)<br>Devin Vassell (5)<br>Luguentz Dort (12) |
+| 5. MAKING WHAT YOU'RE CRAVING (Kenneth) | Jayson Tatum (1)<br>LaMelo Ball (2)<br>Kawhi Leonard (5) |
+| 6. P R O C E S S (Nick) | Giannis Antetokounmpo (1)<br>Joel Embiid (2)<br>Desmond Bane (5) |
+| 7. Chicago Bullsh*t (D) | Anthony Davis (2)<br>Tyrese Haliburton (3)<br>Mikal Bridges (4) |
+| 8. Old Joints and Weak Knees (Clement) | Kevin Durant (1)<br>Jalen Brunson (5)<br>Daniel Gafford (10) |
+| 9. Saddiq in a Box (Brendan) | Kyrie Irving (4)<br>Tyrese Maxey (5)<br>Alperen Sengun (6) |
+| 10. Jokes on You (Michael) | Nikola Jokic (1)<br>Markelle Fultz (10)<br>Walker Kessler (13) |
+| 11. BRICK 4 VIC (Bix) | Myles Turner (2) <br>Jaren Jackson Jr (4)<br>Brook Lopez (9) |
+| 12. Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Shai Gilgeous-Alexander (3)<br>Chet Holmgren (10) |
 
 ## 2022 - 2023 Season
 
@@ -39,8 +60,8 @@ Keeper values based on the [2021 draft](https://basketball.fantasysports.yahoo.c
 | 8. Everybody Loves Draymond (Steven) | Bones Hyland (10)<br>Devin Vassell (10)<br>Gary Trent Jr (13) |
 | 9. B R I C K 4 V I C (Bix) | DeMar DeRozan (5) <br>Terry Rozier (6)<br>Wendell Carter Jr (8) |
 | 10. The Serpent Returns (Clement) | Kevin Durant (2)<br>Dejounte Murray (3)<br>Jalen Brunson (10) |
-| 11. #walkingtripledouble | Pascal Siakam (3)<br>Anthony Edwards (5)<br>Josh Giddey (9) |
-| 12. Jokes on You | Nikola Jokic (1)<br>Jrue Holiday (5)<br>Herbert Jones (10) |
+| 11. #walkingtripledouble (Yannick) | Pascal Siakam (3)<br>Anthony Edwards (5)<br>Josh Giddey (9) |
+| 12. Jokes on You (Michael) | Nikola Jokic (1)<br>Jrue Holiday (5)<br>Herbert Jones (10) |
 
 ## League Rules
 
