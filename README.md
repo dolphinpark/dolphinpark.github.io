@@ -18,7 +18,7 @@ Values based on the [2023 draft](https://basketball.fantasysports.yahoo.com/2023
 | 8. #walkingtripledouble (Yannick) |  |
 | 9. CoCo Curry (Clayton) |  |
 | 10. Everybody Loves Draymond (Steven) |  |
-| 11. Better Call Paul (Yannick) |  |
+| 11. Better Call Paul (Siddhesh) |  |
 | 12. SenGoons (Brendan) |  |
 
 ### 2023 - 2024 Season
