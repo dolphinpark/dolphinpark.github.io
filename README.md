@@ -8,18 +8,18 @@ Values based on the [2023 draft](https://basketball.fantasysports.yahoo.com/2023
 
 | **Team** | **Keepers** |
 | -------- | ----------- |
-| 1. BRICK 4 VIC (Bix) |  |
-| 2. BANE of my Existence (Nick) |  |
-| 3. Giddey up your Jokes (Michael) |  |
-| 4. WHERE DID THE DAME TIME GO? (Nicholas) |  |
-| 5. Big Memphis (Clement) |  |
-| 6. 2TAY MELO (Kenneth) |  |
-| 7. Chicago Bullsh*t (D) |  |
-| 8. #walkingtripledouble (Yannick) |  |
-| 9. CoCo Curry (Clayton) |  |
-| 10. Everybody Loves Draymond (Steven) |  |
-| 11. Better Call Paul (Yannick) |  |
-| 12. SenGoons (Brendan) |  |
+| 1. BRICK 4 VIC (Bix) | Tyler Herro (6)<br>Jonas Valanciunas (9)<br>Immanuel Quickley (12) |
+| 2. BANE of my Existence (Nick) | Giannis Antetokounmpo (1)<br>Joel Embiid (2)<br>Desmond Bane (3) |
+| 3. Giddey up your Jokes (Michael) | Nikola Jokic (1)<br>Alperen Sengun (3)<br>Cody White (10) |
+| 4. WHERE DID THE DAME TIME GO? (Nicholas) | Cade Cunningham (2)<br>Jalen Suggs (10)<br>Miles Bridges (12) |
+| 5. Big Memphis (Clement) | Jalen Brunson (2)<br>Ja Morant (7)<br>Bogdan Bogdanovic (12) |
+| 6. 2TAY MELO (Kenneth) | Jayson Tatum (1)<br>LaMelo Ball (2)<br>Scottie Barnes (4) |
+| 7. Chicago Bullsh*t (D) | Victor Wembanyama (1)<br>Anthony Davis (2)<br>Tyrese Haliburton (3) |
+| 8. #walkingtripledouble (Yannick) | Domantas Sabonis (1)<br>Anthony Edwards (2)<br>Jalen Williams (6) |
+| 9. CoCo Curry (Clayton) | Steph Curry (1)<br>Jaden McDaniels (6)<br>Dereck Lively II (13) |
+| 10. Everybody Loves Draymond (Steven) | Donovan Mitchell (1)<br>Paul George (3)<br>Paolo Banchero (6) |
+| 11. Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Shai Gilgeous-Alexander (2)<br>Jalen Johnson (10) |
+| 12. SenGoons (Brendan) | Trae Young (1)<br>Kyrie Irving (2)<br>Tyrese Maxey (3) |
 
 ### 2023 - 2024 Season
 
@@ -39,25 +39,6 @@ Values based on the [2022 draft](https://basketball.fantasysports.yahoo.com/2022
 | 10. Jokes on You (Michael) | Nikola Jokic (1)<br>Markelle Fultz (10)<br>Walker Kessler (13) |
 | 11. BRICK 4 VIC (Bix) | Myles Turner (2) <br>Jaren Jackson Jr (4)<br>Brook Lopez (9) |
 | 12. Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Shai Gilgeous-Alexander (3)<br>Chet Holmgren (10) |
-
-### 2022 - 2023 Season
-
-Keeper values based on the [2021 draft](https://basketball.fantasysports.yahoo.com/2021/nba/12101/draftresults?drafttab=team).
-
-| **Team** | **Keepers** |
-| -------- | ----------- |
-| 1. MAKING WHAT YOU'RE CRAVING (Kenneth) | Fred VanVleet (2)<br>LaMelo Ball (5)<br>Kawhi Leonard (11) |
-| 2. Chicago Bullshit (D) | Cade Cunningham (5)<br>Tyrese Haliburton (6)<br>Kyle Kuzma (9) |
-| 3. Better Call Paul (Siddhesh) | Luka Doncic (1)<br>Zion Williamson (5)<br>Jamal Murray (13) |
-| 4. WHERE DID THE DAME TIME GO? (Brian) | Damian Lillard (1)<br>Ja Morant (4)<br>Jarrett Allen (6) |
-| 5. P R O C E S S (Nick) | Giannis Antetokounmpo (1)<br>Joel Embiid (2)<br>Desmond Bane (10) |
-| 6. OnlyFranz (Clayton) | Steph Curry (1) <br>Darius Garland (7)<br>Scottie Barnes (9) |
-| 7. Saddiq in a Box (Brendan) | James Harden (1)<br>Kyrie Irving (8)<br>Tyrese Maxey (10) |
-| 8. Everybody Loves Draymond (Steven) | Bones Hyland (10)<br>Devin Vassell (10)<br>Gary Trent Jr (13) |
-| 9. B R I C K 4 V I C (Bix) | DeMar DeRozan (5) <br>Terry Rozier (6)<br>Wendell Carter Jr (8) |
-| 10. The Serpent Returns (Clement) | Kevin Durant (2)<br>Dejounte Murray (3)<br>Jalen Brunson (10) |
-| 11. #walkingtripledouble (Yannick) | Pascal Siakam (3)<br>Anthony Edwards (5)<br>Josh Giddey (9) |
-| 12. Jokes on You (Michael) | Nikola Jokic (1)<br>Jrue Holiday (5)<br>Herbert Jones (10) |
 
 ## League Rules
 
