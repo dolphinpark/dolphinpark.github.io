@@ -49,7 +49,7 @@ Note: These rules were taking from the original document seen here: [Document](h
 #### Draft
  - For our first season, we will be holding a standard snake draft with a random, Yahoo generated draft order. 
  - For all future seasons the draft order will be determined by reverse regular season standings order and **will not be snaking**. 
-     - To prevent tanking, the positions 9-12 in the regular season standings will, in order, hold the first 4 picks, followed by reverse order for the positions 1-12.
+     - To prevent tanking, the positions 9--12 in the regular season standings will, in order, hold the first 4 picks, followed by reverse order for the positions 1-12.
      - To clarify: the draft pick order, based on regular season standings, is: 9th, 10th, 11th, 12th, 8th, 7th, 6th, 5th, 4th, 3rd, 2nd, 1st.
 
 #### Keepers
@@ -62,7 +62,7 @@ Note: These rules were taking from the original document seen here: [Document](h
     - Draft round: Your keepers eat up the future draft pick that they were previously drafted in. If next summer you decide to keep your third, sixth and tenth round picks from this 2017-2018 season, for the 2018-2019 draft, you would give up your third, sixth and tenth round picks. 
         - If a player was not originally drafted by any team, and you acquired them last season from waivers, they cost you your **10th** round pick. ~~This is true *even if* the player was originally drafted. So, if a player was drafted in the 2nd round and dropped, and later in the season, a team picked them up, they would still cost a 10th.~~ As of 2022, any player that is drafted maintains their original draft value, regardless of any in-season transactions.
         - If you kept your 2nd round pick through the year and traded for someone else's 2nd round pick during the season, the keeper cost would be the next higher round pick. (In the case of 2 1st rounders, the next lowest pick is used instead) 
-        - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up. For example, a previously kept 7th rounder would cost a 4th rounder to cost in the following year.
+        - If you previously kept a player in round *n*, the following year the draft round cost would be round *n/2*, rounded up to the next highest round. For example, a previously kept 7th rounder would cost a 3rd rounder in the following year.
     - When trading, adding waivers, or adding free agents, the draft round cost follows the player.
     - When you are trading draft picks, you must be trading an equal number of picks both ways for us to maintain draft and roster size integrity in future years. 
 
