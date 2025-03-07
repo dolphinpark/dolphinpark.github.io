@@ -85,6 +85,7 @@ You can view this in the league settings page but for the lazy:
 ## Archive of Past Seasons
 
 Records maintained starting from the 2018 draft.
+- [2022 draft](archive-2022.md)
 - [2021 draft](archive-2021.md)
 - [2020 draft](archive-2020.md)
 - [2019 draft](archive-2019.md)
